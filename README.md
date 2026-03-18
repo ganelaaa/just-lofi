@@ -2,7 +2,7 @@
 
 ![Static Badge](https://img.shields.io/badge/Status-WIP-purple)
 
-- IOS FLutter development Lofi Mobile Application
+- IOS Flutter development Lofi Mobile Application
 - Current in development stage
 
 ### Projected Features
