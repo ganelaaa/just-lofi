@@ -1,12 +1,11 @@
 # *JUST LOFI*
 
 ![Static Badge](https://img.shields.io/badge/Status-WIP-purple)
-![Static Badge](https://img.shields.io/badge/Language-HTML%2FCSS%2FJS-magenta)
 
-- personalized lo-fi streaming website project
+- IOS FLutter development Lofi Mobile Application
+- Current in development stage
 
-### Projected Special Features
-- Custom Lo-fi theme, added gradient background
+### Projected Features
+- Customized Lo-fi theme (UI)
 - Embedded Youtube video player
-- personalized playlists for user
-
+- personalized cureated user playlists
